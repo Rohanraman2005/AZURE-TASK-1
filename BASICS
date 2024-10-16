@@ -1,0 +1,53 @@
+Introduction to Cloud Computing
+what is cloud computing ?
+The On Demand Delivery of computing services like power databases, storage, applications and other IT resources using internet with pay as you go pricing 
+IAAS :
+Infrastructure As A Service 
+offers Virtualized Machines and servers to host and wide range of applications 
+Ex :Azure Virtual Machines
+SAAS:
+Software As A Service:
+Delivers Software Applications over Internet, eliminating the local installations
+Ex:Microsoft 365
+PAAS:
+Platform As A Service
+Virtual platform to create a Custom Software where the users an focus on building deploying and testing upon underlying infrastructure
+Ex: Azure App Service
+
+Benefits of Cloud Computing
+> Scalability
+> Accessibility
+> Improved performance
+> Maintanence
+
+> What is On-Premises?
+Software is installed and executed on the servers owned by the organization. Applications and data can be only accessed within the network of the organization. 
+
+Advantages:
+1. Security
+2. Performance
+3. Compilance
+
+Diadvantages:
+1. Higher costs:
+2. Limited Scalability:
+
+> Core Architectural Components of Azure:
+
+1. Azure Regions: Azure regions are geographical locations around the world where Micsrosoft maintains data centers for its cloud computing services. 
+   Example: regions in India are Pune, chennai and Mumbai.
+
+2. Azure Sovereign Regions: They are not managed by Microsoft and may have restrictions to certain customers. These regions are isolated.
+   Example: US, Germany and China.
+
+3. Azure Resources: A resource is something that is used to manage services in azure.
+   Examples: Virtual Machines [VM]
+
+4. Azure Data Centers:  Datacentres are like a group of networked computer servers.
+   Examples: North central [US], Japan west, etc.
+
+5. Azure Suscription: We get access to deploy and consume the azure resources. It can be purchased and used for a period of time.
+   Types: --> Free Trial
+          --> Pay-as-you-go
+
+6. Azure policies: It allows one to govern the azure resources.
